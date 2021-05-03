@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="http://www.google.com/search?hl=en&q=nazmul+idris"> Nazmul</a> 😃. I am a Google software engineer, entrepreneur, leader, designer, dancer, TaiChi’er, Yogi, racer, healer, storyteller. I ❤️ leadership, authenticity,  empowerment, and lifelong learning|
+| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="http://www.google.com/search?hl=en&q=nazmul+idris"> Nazmul</a> 😃. I am a Google software engineer, entrepreneur, leader, designer, dancer, TaiChi’er, Yogi, racer, healer, storyteller. I ❤️ leadership, authenticity,  empowerment, and lifelong learning.|
 |---|---|
 
 I have over 20 years of leadership, 12 years of software engineering, 8 years of design and product management experience. As a multifaceted engineer, designer, and communicator, I’ve focused on creating, designing, building, and collaborating with people to bring amazing user experiences to life across multiple platforms.
