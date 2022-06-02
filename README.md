@@ -16,6 +16,13 @@ Highlights:
   - Created & led teams that served many users & developers on Android & iOS.
 - Currently create content for prominent developer tutorial site developerlife.com (est 1998).
 
+<p align="center">
+<a href="https://github.com/nazmulidris">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nazmulidris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nazmulidris&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
 💬 More info about me - http://nazmulidris.com 
 
 <!--
