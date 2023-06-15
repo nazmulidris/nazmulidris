@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="http://www.google.com/search?hl=en&q=nazmul+idris"> Nazmul</a> 😃. I am an ex-Google software engineer, entrepreneur, designer, leader, HsingI-er, racer, healer & storyteller. I ❤️ leadership, authenticity, empowerment & lifelong learning.|
+| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="http://www.google.com/search?hl=en&q=nazmul+idris"> Nazmul</a> 😃. I am a software engineer, entrepreneur, designer, leader, HsingI-er, racer, healer & storyteller. I ❤️ leadership, authenticity, empowerment & lifelong learning.|
 |---|---|
 
 ✨ You can read all my articles on - http://developerlife.com
@@ -10,7 +10,7 @@ I have over 20 years of leadership, 12 years of software engineering, 8 years of
 Highlights:
 - Currently a Rustacean working on all things TUI & CLI! Along w/ WASM, WASI, fast and efficient desktop apps. Coding in Rust, TypeScript, React, WASM, WASI, Node.js.
 - Worked on IDEs (Android Studio) writing code in Kotlin & Java.
-- Was principal SWE, founder, and CEO of a startup (TRNQL) in 2015.
+- Was principal software engineer, founder, and CEO of a startup (TRNQL) in 2015.
   - Raised 1.5M in venture funding.
   - Successfully built and launched developer-facing SDKs for Android & iOS.
   - Created & led teams that served many users & developers on Android & iOS.
