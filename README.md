@@ -5,7 +5,7 @@
 
 ✨ You can read all my articles on - http://developerlife.com
 
-I have over 20 years of leadership, 12 years of software engineering, 8 years of design and product management experience. As a multifaceted engineer, designer, and communicator, I’ve focused on creating, designing, building, and collaborating with people to bring amazing user experiences to life across multiple platforms.
+I am equal parts hands-on coder, management, and product leadership. I have over 20 years of leadership, 12 years of software engineering, 8 years of design and product management experience. As a multifaceted engineer, designer, and communicator, I’ve focused on creating, designing, building, and collaborating with people to bring amazing user experiences to life across multiple platforms.
 
 Highlights:
 - Currently a Rustacean working on all things TUI & CLI! Along w/ WASM, WASI, fast and efficient desktop apps. Coding in Rust, TypeScript, React, WASM, WASI, Node.js.
