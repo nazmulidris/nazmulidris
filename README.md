@@ -22,7 +22,9 @@ designing, building, and collaborating with people to bring amazing user experie
 life across multiple platforms.
 
 Highlights:
-- Currently a Rustacean 🦀 working on all things TUI & CLI! Along w/ WASM, WASI, fast and efficient desktop apps. Coding in Rust, TypeScript, React, WASM, WASI, Node.js.
+- Currently a Rustacean 🦀 coding in Rust and working on all things TUI & CLI! Along w/
+  WASM, WASI, fast and efficient desktop and web apps. Coding in Rust, TypeScript, React,
+  WASM, WASI, Node.js.
 - Worked on IDEs (Android Studio) writing code in Kotlin & Java.
 - Was principal software engineer, founder, and CEO of a startup (TRNQL) in 2015.
   - Raised 1.5M in venture funding.
