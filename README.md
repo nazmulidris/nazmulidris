@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="https://nazmulidris.com"> Nazmul</a> 😃. I am an ex-Googler, <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">founder, engineer, maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, learning, empowerment.|
+| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="https://nazmulidris.com"> Nazmul</a> 😃. I am an ex-Googler, <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">founder, engineer, maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity and play.|
 |---|---|
 
 ✨ You can read all my articles on [developerlife.com](https://developerlife.com) and watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
