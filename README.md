@@ -6,7 +6,8 @@
 ✨ You can read all my articles on [developerlife.com](https://developerlife.com) and watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
 
 I am equal parts: engineer, management, and product person; both hands-on and in
-leadership.
+leadership. I move fluidly between the realms of desktop, web, mobile, cloud,
+infrastructure, server, client.
 
 I've brought products to life from a glimmer of a vision to a team building it, to having
 customers, and eventually seeing the product come to an end. I've worked as part of large
