@@ -13,7 +13,7 @@ I've brought products to life from a glimmer of a vision to a team building it, 
 customers, and eventually seeing the product come to an end. I've worked as part of large
 and small teams and led them to make impossible things possible.
 
-I have over 30 years of leadership:
+I have over 30 years of experience:
 
 - 22 years in software engineering.
 - 8 years in executive leadership, design, product management experience.
