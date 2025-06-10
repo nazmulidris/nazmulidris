@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="https://nazmulidris.com"> Nazmul</a> 😃. I am an ex-Googler, <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">founder, engineer, maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play and hope.|
-|---|---|
+| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | 👋 Hi, I'm <a href="https://nazmulidris.com"> Nazmul</a> 😃. I am an ex-Googler, <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">founder, engineer, maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play and hope. |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-✨ You can read all my articles on [developerlife.com](https://developerlife.com) and watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
+✨ You can read all my articles on [developerlife.com](https://developerlife.com) and
+watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
 
 I am equal parts: engineer, management, and product person; both hands-on and in
 leadership. I move fluidly between the realms of desktop, web, mobile, cloud,
@@ -18,20 +19,34 @@ I have over 30 years of work experience in the tech sector:
 - 22 years in software engineering.
 - 8 years in executive leadership, design, product management experience.
 
-As a multifaceted entrepreneur, leader, engineer, designer, and communicator, I’ve focused on creating,
-designing, building, and collaborating with people to bring amazing user experiences to
-life across multiple platforms.
+As a multifaceted entrepreneur, leader, engineer, designer, and communicator, I’ve focused
+on creating, designing, building, and collaborating with people to bring amazing user
+experiences to life across multiple platforms.
 
 Highlights:
-- Currently a Rustacean 🦀 coding in Rust and working on all things TUI & CLI! Along w/
-  WASM, WASI, fast and efficient desktop and web apps. Coding in Rust, TypeScript, React,
-  WASM, WASI, Node.js.
-- Worked on IDEs (Android Studio) writing code in Kotlin & Java.
+
+- Currently a Rustacean 🦀 coding in Rust every day for 4 years, working on systems programming,
+  performance, memory latency, and response times on complex system, related to all things TUI (text
+  user interface) & CLI (command line interface)! Along w/ WASM, WASI, fast and efficient desktop
+  and web apps. Many years coding experience in TypeScript, React, WASM, WASI, Node.js, Kotlin, and
+  Java.
+  - My crates on crates.io have accumulated over 2M downloads in the last 2 years
+  - My YouTube channel on Rust live coding covers advanced topics on systems programming and Rust
+    advanced concepts, like async, tokio, design patterns (type state, newtype, etc), concurrent and
+    parallel programming, parsing, code generation, and more:
+    [youtube.com/@developerlifecom](https://www.youtube.com/@developerlifecom).
+  - My website developerlife.com has a section on Rust with articles and tutorials covering the same
+    topics as the videos above:
+    [developerlife.com/category/rust](https://developerlife.com/category/Rust/)
+- Worked on Android Studio IDE (JetBrains based) in Kotlin & Java. Worked on the platform team,
+  focusing on system performance, relativity, response times, and stability. While rapidly
+  integrating and adapting to the latest JetBrains IDE platform changes.
 - Was principal software engineer, founder, and CEO of a startup (TRNQL) in 2015.
   - Raised 1.5M in venture funding.
   - Successfully built and launched developer-facing SDKs for Android & iOS.
   - Created & led teams that served many users & developers on Android & iOS.
-- Currently create content for prominent developer tutorial site developerlife.com (est 1998).
+- Currently create content for prominent developer tutorial site developerlife.com (est
+  1998).
 
 <p align="center">
 <a href="https://github.com/nazmulidris">
@@ -40,7 +55,7 @@ Highlights:
 </a>
 </p>
 
-💬 More info about me - http://nazmulidris.com 
+💬 More info about me - http://nazmulidris.com
 
 <!--
 **nazmulidris/nazmulidris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
