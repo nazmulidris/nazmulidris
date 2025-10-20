@@ -30,7 +30,7 @@ optimization
 ## 📚 Teaching & Content
 
 - **YouTube:** [Advanced Rust systems programming](http://youtube.com/@developerlifecom)
-- **Articles:** [developerlife.com/rust](http://developerlife.com/category/rust) —
+- **Articles:** [developerlife.com](http://developerlife.com) —
   Architecture patterns, async, parsing, concurrency
 - **Since 1998:** Sharing production engineering lessons at developerlife.com
 
