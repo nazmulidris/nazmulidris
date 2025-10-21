@@ -8,7 +8,7 @@ watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
 
 ## 🦀 What I Build
 
-### [r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) — Next Gen Async TUI/CLI Framework in Rust
+### [R3BL TUI](https://github.com/r3bl-org/r3bl-open-core) — Next Gen Async TUI/CLI Framework in Rust
 
 Production-ready Rust infrastructure for building terminal user interfaces and
 command-line tools.
