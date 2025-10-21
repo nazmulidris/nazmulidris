@@ -8,7 +8,7 @@ watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
 
 ## 🦀 What I Build
 
-### [r3bl-org](https://github.com/r3bl-org) — Production TUI/CLI Framework
+### [r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) — Production TUI/CLI Framework
 
 Production-ready Rust infrastructure for building terminal user interfaces and
 command-line tools.
