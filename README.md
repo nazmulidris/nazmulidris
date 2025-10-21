@@ -10,6 +10,15 @@ watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
 
 ### [R3BL TUI](https://github.com/r3bl-org/r3bl-open-core) — Next Gen Async TUI/CLI Framework in Rust
 
+```text
+██████╗ ██████╗ ██████╗ ██╗         ████████╗██╗   ██╗██╗
+██╔══██╗╚════██╗██╔══██╗██║         ╚══██╔══╝██║   ██║██║
+██████╔╝ █████╔╝██████╔╝██║            ██║   ██║   ██║██║
+██╔══██╗ ╚═══██╗██╔══██╗██║            ██║   ██║   ██║██║
+██║  ██║██████╔╝██████╔╝███████╗       ██║   ╚██████╔╝██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝       ╚═╝    ╚═════╝ ╚═╝
+```
+
 I'm solving real problems for developers building complex terminal and CLI applications. This space hasn't really seen much innovation since the 90s. Currently with the popularization of tools like Claude Code, the Terminal is a primary point of interaction with more developers than ever before. The `r3bl_tui` framework represents years of experience in systems programming, performance optimization, and production-grade infrastructure design.
 
 - **2M+ downloads** on crates.io over 2 years
