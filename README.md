@@ -23,6 +23,7 @@ execution, and building cultures of engineering excellence.
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝
 ```
 
+<!-- BEGIN: SNIPPET narrative_arc -->
 Despite the massive rise of autonomous coding agents and remote cloud VM administration,
 terminal UI and foundational primitives have largely stagnated since the 1990s.
 
@@ -46,9 +47,11 @@ Markdown and virtual terminal multiplexers.
 My focus is on preserving data sovereignty, privacy, and enabling local-first computing,
 while enhancing developer productivity, knowledge capture & sharing, and workflow
 management.
+<!-- END: SNIPPET narrative_arc -->
 
 ### Architecture, Platform & Ecosystem
 
+<!-- BEGIN: SNIPPET ecosystem_bullets -->
 - **[`r3bl_tui`](https://crates.io/crates/r3bl_tui) (Async TUI Engine & VTE Primitives):**
   Strictly type-safe async TUI engine with custom CSS/Flexbox layout & rendering engines,
   Elm-style state, React/JSX-style declarative macros, headless virtual terminal emulation
@@ -56,11 +59,11 @@ management.
 - **[`r3bl-cmdr`](https://crates.io/crates/r3bl-cmdr) (Interactive CLI & TUI Apps):**
   Modal terminal Markdown editor (`edi`) and interactive Git branch & staging workflows
   (`giti`).
-- **[`r3bl-rust-analyzer-mcp-server`](https://crates.io/crates/r3bl-rust-analyzer-mcp-server)
-  (AI & MCP Servers):** High-performance Model Context Protocol (MCP) servers bridging AI
-  coding agents directly with local language servers and toolchains.
+- **[`r3bl-rust-analyzer-mcp-server`](https://crates.io/crates/r3bl-rust-analyzer-mcp-server) (AI & MCP Servers):**
+  High-performance Model Context Protocol (MCP) servers bridging AI coding agents
+  directly with local language servers and toolchains.
 - **IDE & Browser Extensions:**
-  [VS Code](https://marketplace.visualstudio.com/publishers/R3BL) and
+  Suite of [VS Code](https://marketplace.visualstudio.com/publishers/R3BL) and
   [Open VSX](https://open-vsx.org/namespace/R3BL) extensions for Rust development,
   alongside the R3BL Shortlink browser extension
   ([Chrome](https://chrome.google.com/webstore/detail/r3bl-shortlink/ffhfkgcfbjoadmhdmdcmigopbfkddial)
@@ -68,6 +71,7 @@ management.
 - **Upcoming Local-First Product Suite ([`r3bl.com`](https://r3bl.com) — Closed Source):**
   Terminal apps over SSH — collaborative Markdown editing and virtual terminal
   multiplexers.
+<!-- END: SNIPPET ecosystem_bullets -->
 
 ## 💡 Background
 
