@@ -1,9 +1,9 @@
 ### Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃!
 
 I'm a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation
-terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler
-(Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/"
-target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓
+terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler,
+<a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">maintainer</a>,
+designer, leader, HsingI-er, racer, storyteller. I 💓
 leadership, authenticity, play, and hope. I build high-performance systems infrastructure
 and lead teams that ship production systems. I am equally comfortable architecting
 low-latency systems and writing production code, defining product vision and go-to-market
