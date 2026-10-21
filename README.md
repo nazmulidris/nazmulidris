@@ -23,23 +23,9 @@ terminal UI and foundational primitives have largely stagnated since the 1990s.
 I am reimagining the terminal for this era, to address the needs of LLM harnesses and
 ergonomic remote cloud VM admin.
 
-The first thing I am doing is creating better primitives
+To bridge this 30-year gap, I am creating better primitives
 ([`r3bl-open-core` aka `ROC`](https://github.com/r3bl-org/r3bl-open-core)) from the ground
-up in Rust (**2.7M+ downloads** on [crates.io](https://crates.io/users/nazmulidris)) to bridge
-the gap in terminal capabilities since the 90's.
-
-Available today, `ROC` provides a strictly type-safe, correctness-focused async TUI engine,
-headless virtual terminal emulation (VTE), low-latency PTY/TTY runtime, CLI/TUI apps
-(`edi`, `giti`), MCP servers, and IDE/browser extensions.
-
-Built on top of this open-source foundation, I'm building an upcoming closed-source suite
-of terminal apps at [r3bl.com](https://r3bl.com) (which all work seamlessly over SSH).
-This includes a local-first collaborative _"Google Docs meets Jupyter notebooks"_ for
-Markdown and virtual terminal multiplexers.
-
-My focus is on preserving data sovereignty, privacy, and enabling local-first computing,
-while enhancing developer productivity, knowledge capture & sharing, and workflow
-management.
+up in Rust (**2.7M+ downloads** on [crates.io](https://crates.io/users/nazmulidris)).
 
 ### Architecture, Platform & Ecosystem
 
@@ -90,20 +76,9 @@ management.
 </a>
 </p>
 
-💬 More info about me: https://nazmulidris.com  
+💬 More info about me: https://nazmulidris.com
 📬 Reach me: [LinkedIn](https://linkedin.com/in/nazmulidris)
 
 <!--
 **nazmulidris/nazmulidris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
