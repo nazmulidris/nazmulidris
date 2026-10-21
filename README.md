@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃, a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler (Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play, and hope. I build high-performance systems infrastructure and lead teams that ship production systems. I am equally comfortable architecting low-latency systems and writing production code, defining product vision and go-to-market execution, and building cultures of engineering excellence. |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃, a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler (Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play, and hope. I build high-performance systems infrastructure and lead teams that ship production systems. I am equally comfortable architecting low-latency systems and writing production code, defining product vision and go-to-market execution, and building cultures of engineering excellence.
 
 ✨ You can read all my articles on [developerlife.com](https://developerlife.com) and
 watch my videos on [YouTube](https://www.youtube.com/@developerlifecom).
@@ -23,36 +22,30 @@ terminal UI and foundational primitives have largely stagnated since the 1990s.
 I am reimagining the terminal for this era, to address the needs of LLM harnesses and
 ergonomic remote cloud VM admin.
 
-To bridge this 30-year gap, I am creating better primitives
+The first thing I am doing is creating better primitives
 ([`r3bl-open-core` aka `ROC`](https://github.com/r3bl-org/r3bl-open-core)) from the ground
-up in Rust (**2.7M+ downloads** on [crates.io](https://crates.io/users/nazmulidris)).
+up in Rust (**2.7M+ downloads** on [crates.io](https://crates.io/users/nazmulidris)) to bridge
+the gap in terminal capabilities since the 90's.
+
+Available today, `ROC` provides a strictly type-safe, correctness-focused async TUI engine,
+headless virtual terminal emulation (VTE), low-latency PTY/TTY runtime, CLI/TUI apps
+(`edi`, `giti`), MCP servers, and IDE/browser extensions.
+
+Built on top of this open-source foundation, I'm building an upcoming closed-source suite
+of terminal apps at [r3bl.com](https://r3bl.com) (which all work seamlessly over SSH).
+This includes a local-first collaborative _"Google Docs meets Jupyter notebooks"_ for
+Markdown and virtual terminal multiplexers.
+
+My focus is on preserving data sovereignty, privacy, and enabling local-first computing,
+while enhancing developer productivity, knowledge capture & sharing, and workflow
+management.
 
 ### Architecture, Platform & Ecosystem
 
-- **Async TUI Engine & VTE Primitives (Open Source):** [`r3bl_tui`](https://crates.io/crates/r3bl_tui)
-  provides a strictly type-safe, correctness-focused async TUI engine (custom CSS/Flexbox layout engine,
-  custom rendering engine, Elm-style unidirectional state management, React/JSX-style declarative
-  macros, and a full-featured Markdown editor component with custom Markdown parser and syntax
-  highlighting), async readline, headless virtual terminal emulation (VTE), and low-latency
-  PTY/TTY runtime in Rust.
-- **Interactive CLI & TUI Apps (Open Source):** [`r3bl-cmdr`](https://crates.io/crates/r3bl-cmdr)
-  provides a terminal Markdown editor (`edi`) powered by `r3bl_tui`'s Markdown editor component,
-  alongside interactive Git workflows (`giti`) for branch management and staging.
-- **AI & MCP Servers (Open Source):** [`r3bl-rust-analyzer-mcp-server`](https://crates.io/crates/r3bl-rust-analyzer-mcp-server)
-  delivers high-performance Model Context Protocol (MCP) servers and tools for LLMs to orchestrate in
-  their agentic harnesses, bridging AI coding agents directly with local language servers and toolchains.
-- **IDE & Browser Extensions (Open Source):** Suite of [VS Code](https://marketplace.visualstudio.com/publishers/R3BL)
-  and [Open VSX](https://open-vsx.org/namespace/R3BL) extensions for Rust development, semantic
-  highlighting, and task spaces, alongside the R3BL Shortlink browser extension
-  ([Chrome](https://chrome.google.com/webstore/detail/r3bl-shortlink/ffhfkgcfbjoadmhdmdcmigopbfkddial)
-  and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/r3bl-shortlink/)).
-- **Upcoming Local-First Product Suite (Closed Source):** Built on top of the `ROC` open-source
-  foundation, I am building an upcoming suite of terminal apps at [r3bl.com](https://r3bl.com)
-  (which all work seamlessly over SSH). Products like **local-first collaborative _"Google Docs meets
-  Jupyter notebooks"_ for Markdown** (real-time collaborative editing and Markdown code execution)
-  and **headless virtual terminal multiplexers** with virtual tabs for interactive cloud infrastructure
-  setup and multiplexed AI coding agent workflows, all focused on **data sovereignty, privacy, and
-  local-first computing**.
+- **[`r3bl_tui`](https://crates.io/crates/r3bl_tui) (Async TUI Engine & VTE Primitives):** Strictly type-safe async TUI engine with custom CSS/Flexbox layout & rendering engines, Elm-style state, React/JSX-style declarative macros, headless virtual terminal emulation (VTE), low-latency PTY/TTY runtime, and full-featured Markdown editor component.
+- **[`r3bl-cmdr`](https://crates.io/crates/r3bl-cmdr) (Interactive CLI & TUI Apps):** Modal terminal Markdown editor (`edi`) and interactive Git branch & staging workflows (`giti`).
+- **[`r3bl-rust-analyzer-mcp-server`](https://crates.io/crates/r3bl-rust-analyzer-mcp-server) (AI & MCP Servers):** High-performance Model Context Protocol (MCP) servers bridging AI coding agents directly with local language servers and toolchains.
+- **IDE & Browser Extensions:** [VS Code](https://marketplace.visualstudio.com/publishers/R3BL) and [Open VSX](https://open-vsx.org/namespace/R3BL) extensions for Rust development, alongside the R3BL Shortlink browser extension ([Chrome](https://chrome.google.com/webstore/detail/r3bl-shortlink/ffhfkgcfbjoadmhdmdcmigopbfkddial) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/r3bl-shortlink/)).
 
 ## 💡 Background
 
