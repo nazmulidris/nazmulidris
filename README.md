@@ -1,8 +1,8 @@
-### Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃,
+### Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃
 
-a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation terminal
-platforms and developer tooling for the AI & cloud era. Also an ex-Googler (Android Studio
-IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/"
+I'm a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation
+terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler
+(Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/"
 target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓
 leadership, authenticity, play, and hope. I build high-performance systems infrastructure
 and lead teams that ship production systems. I am equally comfortable architecting
@@ -65,6 +65,8 @@ management.
   alongside the R3BL Shortlink browser extension
   ([Chrome](https://chrome.google.com/webstore/detail/r3bl-shortlink/ffhfkgcfbjoadmhdmdcmigopbfkddial)
   and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/r3bl-shortlink/)).
+- **Upcoming Local-First Product Suite ([`r3bl.com`](https://r3bl.com) — Closed Source):**
+  Terminal apps over SSH — collaborative Markdown editing and virtual terminal multiplexers.
 
 ## 💡 Background
 
