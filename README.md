@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃, a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler (Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play, and hope. I build high-performance systems infrastructure and lead teams that ship production systems.<br/><br/>I am equally comfortable architecting low-latency systems and writing production code, defining product vision and go-to-market execution, and building cultures of engineering excellence. |
+| <img src="https://github.com/nazmulidris/developerlife.com/blob/main/assets/nazmul.png?raw=true"/> | Hi, I'm <a href="https://nazmulidris.com">Naz</a> 😃, a **Rustacean 🦀, Systems Engineering Leader & Founder** building next-generation terminal platforms and developer tooling for the AI & cloud era. Also an ex-Googler (Android Studio IDE Platform), <a href="https://github.com/r3bl-org/r3bl-open-core/" target="_blank">maintainer</a>, designer, leader, HsingI-er, racer, storyteller. I 💓 leadership, authenticity, play, and hope. I build high-performance systems infrastructure and lead teams that ship production systems. I am equally comfortable architecting low-latency systems and writing production code, defining product vision and go-to-market execution, and building cultures of engineering excellence. |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ✨ You can read all my articles on [developerlife.com](https://developerlife.com) and
@@ -80,7 +80,7 @@ management.
 ## 📚 Teaching & Content
 
 - **YouTube:** [Advanced Rust systems programming & live coding](https://www.youtube.com/@developerlifecom)
-- **developerlife.com (since 1998, 10M+ pageviews):** [In-depth engineering tutorials & architecture case studies](https://developerlife.com) across Rust, AI & LLMs, async systems, Tokio, TUI/CLI platforms, Kotlin, Android, TypeScript, Node.js, and React
+- **developerlife.com (est. 1998):** [28 years of authoring in-depth engineering tutorials & architecture case studies](https://developerlife.com) across Rust, AI & LLMs, async systems, Tokio, TUI/CLI platforms, Kotlin, Android, TypeScript, Node.js, and React
 - **Google UX Design Show & Udacity Course:** 400k+ combined reach (200k+ YouTube views, 200k+ Udacity students) & Google I/O experiential workshops (2,000+ attendees)
 
 <p align="center">
